@@ -46,3 +46,19 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             >
+            <Button
+                android:layout_width="95dp"
+                android:layout_height="65dp"
+                android:id="@+id/bac"
+                android:text="c"
+                android:textSize="25sp"
+                android:background="@color/butt"
+                />
+            <Button
+                android:layout_width="95dp"
+                android:layout_height="65dp"
+                android:id="@+id/bsq"
+                android:text="√"
+                android:textSize="25sp"
+                android:background="@color/butt"
+                />
