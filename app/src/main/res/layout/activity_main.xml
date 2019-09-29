@@ -66,7 +66,30 @@
                 android:layout_width="95dp"
                 android:layout_height="65dp"
                 android:id="@+id/bmod"
-                android:text="%"
+                android:text="del"
                 android:textSize="25sp"
                 android:background="@color/butt"
+                />
+
+            <Button
+                android:layout_width="95dp"
+                android:layout_height="65dp"
+                android:id="@+id/badd"
+                android:text="+"
+                android:textSize="25sp"
+                android:background="@color/butt"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_width="95dp"
+                android:layout_height="65dp"
+                android:id="@+id/b7"
+                android:text="7"
+                android:textSize="25sp"
                 />
